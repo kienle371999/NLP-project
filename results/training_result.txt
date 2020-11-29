@@ -1,0 +1,1 @@
+Training accuracy on antonym-synonym set: 0.9195402298850575

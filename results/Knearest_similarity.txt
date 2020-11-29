@@ -1,0 +1,6 @@
+K-nearest Similirity of nguyễn_thị_tươi: 
+(('nguyễn_thị_tươi', 'lê_thị_bích'), 3.2330628365650536)
+(('nguyễn_thị_tươi', 'thanh_loan'), 3.1109932290906874)
+(('nguyễn_thị_tươi', 'nguyễn_thị_bích'), 3.0296442329150723)
+(('nguyễn_thị_tươi', 'nguyễn_thị_thúy'), 3.0188345107037136)
+(('nguyễn_thị_tươi', 'nguyễn_thị_thu_hằng'), 2.9485808113597884)
